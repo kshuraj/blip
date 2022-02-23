@@ -1,0 +1,9 @@
+__pycache__
+venv
+models
+*.pyc
+*.log
+data
+taming
+.ycm_extra_conf.py
+.pytest_cache
